@@ -1,0 +1,16 @@
+.line_left {
+    transform: scaleY(0.2);
+    border-radius: 100%;
+}
+.icons div:hover .line_left {
+    transform: scaleY(0.5);
+    border-radius: 100px;
+}
+.icons div:hover img {
+    border-radius: 1rem;
+}
+.icons div img{
+    object-fit: cover;
+    border-radius: 1.5rem;
+    transition: all 0.3s ease-in-out;
+}
