@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/discord/static/css/main.256118f8.css",
+    "main.js": "/discord/static/js/main.e363fca9.js",
+    "static/js/787.9b1ee62a.chunk.js": "/discord/static/js/787.9b1ee62a.chunk.js",
+    "static/media/watchdogs.jpg": "/discord/static/media/watchdogs.05879e72c7288ff7fce8.jpg",
+    "static/media/assasian.jpg": "/discord/static/media/assasian.f5fbfbe98e6bac0a149c.jpg",
+    "static/media/avengers.jpg": "/discord/static/media/avengers.e93293529aa58ca6f7b3.jpg",
+    "static/media/user.jpg": "/discord/static/media/user.c752f43736db9d227a2a.jpg",
+    "static/media/valorant.jpg": "/discord/static/media/valorant.33b93f7e8f26fe64ac46.jpg",
+    "static/media/girl.jpg": "/discord/static/media/girl.6aaf61f86c3266f5b05c.jpg",
+    "index.html": "/discord/index.html",
+    "main.256118f8.css.map": "/discord/static/css/main.256118f8.css.map",
+    "main.e363fca9.js.map": "/discord/static/js/main.e363fca9.js.map",
+    "787.9b1ee62a.chunk.js.map": "/discord/static/js/787.9b1ee62a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.256118f8.css",
+    "static/js/main.e363fca9.js"
+  ]
+}
