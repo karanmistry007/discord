@@ -1,0 +1,7 @@
+.channel:hover .hash {
+    color: #a9bac1;
+}
+.channel:hover .user {
+    scale: 0.85;
+    transform: scaleX(-1);
+}
